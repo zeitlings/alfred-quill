@@ -198,6 +198,5 @@ To access some internal configuration options, type ` :c `.
 
 
 
-[^1]: [Manipulate selected text](https://www.alfredapp.com/blog/tips-and-tricks/manipulating-selected-text-in-macos-with-alfred-workflows/) 
-
+[^1]: [Manipulate selected text](https://www.alfredapp.com/blog/tips-and-tricks/manipulating-selected-text-in-macos-with-alfred-workflows/)  
 [^2]: [Transform utility](https://www.alfredapp.com/help/workflows/utilities/transform/)
