@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="assets/quill.png" width="150" height="150"><br>
+    <img src="assets/quill.png" width="175" height="175"><br>
     Quill<br>
     <a href="https://github.com/zeitlings/alfred-quill/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-quill.svg" alt="GitHub Release"></a>
   </h1>
@@ -19,7 +19,7 @@ The workflow has five entry points. When...
 - Using **custom shortcuts**, the text of your selection in macOS is processed.
 - Using **custom Universal Actions**, the text that is passed to them is processed.
 
-When using the *main shortcut*, the transformed text is always pasted to the frontmost application. Whether the transformed text will be pasted when using the other entry points depends on your choice in the *Workflow Configuration*, or on a case-by-case basis for your custom implementations. Hold <kbd>**⌘**</kbd> on the main Universal Action to ensure that the transformation result is just copied to the clipboard.
+When using the *main shortcut*, the transformed text is always pasted to the frontmost application. Whether the transformed text will be pasted when using the other entry points depends on your choice in the *Workflow Configuration*, or on a case-by-case basis for your custom implementations. Hold **⌘** on the main Universal Action to ensure that the transformation result is just copied to the clipboard.
 
 When you use the keyword or one of the main entry points, you will always be presented with all available transforms. These are filtered as you begin typing. Setting up custom entry points allows you to directly invoke the commands you want (see `Automation`).
 
