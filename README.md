@@ -94,6 +94,8 @@ If you want to make sure that your automations survive changes of the *Delimiter
 
 To access some internal configuration options, type ` :c `.
 
+<img src="assets/img/config.png" width="612px"/>
+
 - **Always paste to frontmost application:** If this option is not checked, the processed text (taken from the clipboard) will be copied to your clipboard **if** the workflow is triggered with the `keyword`. Transformations triggered using a shortcut will always be pasted.
 
 - **Ignore recurring requests:** If this option is checked, the workflow will not trigger if the input has already been seen and processed recently. Otherwise, the workflow will be triggered when browsing Alfred's history, which may not be intended.
