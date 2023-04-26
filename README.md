@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/quill.png" width="150" height="150">
   <h1>
+    <img src="assets/quill.png" width="150" height="150"><br>
     Quill<br>
-    <a href="https://github.com/zeitlings/alfred-quill/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-set-default-browser.svg" alt="GitHub Release"></a>
+    <a href="https://github.com/zeitlings/alfred-quill/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-quill.svg" alt="GitHub Release"></a>
   </h1>
 </div>
 
