@@ -25,6 +25,10 @@ When you use the keyword or one of the main entry points, you will always be pre
 
 <img src="assets/img/entry.png" width="612px" />
 
+<details>
+<summary>Expand to watch the preview</summary>
+<img src="assets/img/demo.gif" />
+</details>
 
 ## Dynamic Transforms
 
