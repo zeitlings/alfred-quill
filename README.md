@@ -2,7 +2,7 @@
   <h1>
     <img src="assets/quill.png" width="175" height="175"><br>
     Quill | Text processing utility<br>
-    <a href="https://github.com/zeitlings/alfred-quill/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-quill.svg" alt="GitHub Release"></a>
+    <a href="https://github.com/zeitlings/alfred-quill/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-quill.svg?logo=alfred&label=download" alt="GitHub Release"></a>
   </h1>
 </div>
 
